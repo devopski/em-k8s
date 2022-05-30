@@ -6,5 +6,5 @@ spec:
   template:
     spec:
       containers:
-      - image: image-registry.openshift-image-registry.svc:5000/em-test-dev/employee-manager:dawid
+      - image: image-registry.openshift-image-registry.svc:5000/em-test-dev/employee-manager:klaudia
         name: employee-manager # necessary for Kustomize identification
